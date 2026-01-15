@@ -1,5 +1,6 @@
 ﻿using MediatR;
 using surveys_services.application.DTOs;
+using surveys_services.application.Interfaces;
 using surveys_services.application.Queries.Queries;
 using surveys_services.domain.Interfaces;
 using System;
@@ -13,20 +14,22 @@ namespace surveys_services.application.Queries.Handlers
     public class GetCompletedSurveysByUserHandler : IRequestHandler<GetCompletedSurveysByUserQuery, List<CompletedSurveyDto>>
     {
         private readonly ISurveysRepository _surveysRepository;
+        private readonly IUserService _userService;
 
-        public GetCompletedSurveysByUserHandler(ISurveysRepository surveysRepository)
+        public GetCompletedSurveysByUserHandler(ISurveysRepository surveysRepository,IUserService userService)
         {
             _surveysRepository = surveysRepository;
+            _userService = userService;
         }
 
         public async Task<List<CompletedSurveyDto>> Handle(GetCompletedSurveysByUserQuery request, CancellationToken cancellationToken)
         {
             var result = new List<CompletedSurveyDto>();
-
+            var UserId = await _userService.ObtenerUsuarioPorEmailAsync(request.Email);
             var allSurveys = await _surveysRepository.GetAllSurveysAsync(cancellationToken);
             foreach (var survey in allSurveys)
             {
-                bool yaRespondio = await _surveysRepository.VerificarSiUsuarioRespondioAsync(survey.Id, request.UserId);
+                bool yaRespondio = await _surveysRepository.VerificarSiUsuarioRespondioAsync(survey.Id, UserId);
 
                 if (yaRespondio)
                 {

@@ -10,7 +10,7 @@ namespace surveys_services.application.DTOs
     {
         public Guid EncuestaId { get; set; } 
         public Guid PreguntaId { get; set; }
-        public Guid UsuarioId { get; set; }
+        public string email { get; set; }
         public int Valor { get; set; }
     }
 }

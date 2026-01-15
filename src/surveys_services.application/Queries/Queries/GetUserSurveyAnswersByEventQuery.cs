@@ -10,12 +10,12 @@ namespace surveys_services.application.Queries.Queries
 {
     public class GetUserSurveyAnswersByEventQuery : IRequest<SurveyResultByEventDto>
     {
-        public Guid UserId { get; set; }
+        public string Email { get; set; }
         public Guid EventId { get; set; }
 
-        public GetUserSurveyAnswersByEventQuery(Guid userId, Guid eventId)
+        public GetUserSurveyAnswersByEventQuery(string email, Guid eventId)
         {
-            UserId = userId;
+            Email = email;
             EventId = eventId;
         }
     }

@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Handlers\\GetPendingSurveysByUserHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\surveys_services.application\\Queries\\Handlers\\GetPendingSurveysByUserHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Handlers\\PromedioEncuestaPorEventoHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\surveys_services.application\\Queries\\Handlers\\PromedioEncuestaPorEventoHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.domain\\Constants\\SurveyConstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\surveys_services.domain\\Constants\\SurveyConstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.domain\\Enums\\EnumValue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\surveys_services.domain\\Enums\\EnumValue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.api\\Controllers\\SurveyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\surveys_services.api\\Controllers\\SurveyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\PromedioQuestionDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\surveys_services.application\\DTOs\\PromedioQuestionDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\PromedioEventSurveyDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\surveys_services.application\\DTOs\\PromedioEventSurveyDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\HistoialPagoExternalDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\surveys_services.application\\DTOs\\HistoialPagoExternalDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.infrastructure\\Services\\PagosService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\surveys_services.infrastructure\\Services\\PagosService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Interfaces\\IPagosService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\surveys_services.application\\Interfaces\\IPagosService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\surveys_services.api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.infrastructure\\Services\\EventosService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\surveys_services.infrastructure\\Services\\EventosService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\SurveyResultByEventDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\surveys_services.application\\DTOs\\SurveyResultByEventDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SurveyConstants.cs",
+              "DocumentMoniker": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.domain\\Constants\\SurveyConstants.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.domain\\Constants\\SurveyConstants.cs",
+              "ToolTip": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.domain\\Constants\\SurveyConstants.cs",
+              "RelativeToolTip": "src\\surveys_services.domain\\Constants\\SurveyConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T18:56:07.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnumValue.cs",
+              "DocumentMoniker": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.domain\\Enums\\EnumValue.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.domain\\Enums\\EnumValue.cs",
+              "ToolTip": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.domain\\Enums\\EnumValue.cs",
+              "RelativeToolTip": "src\\surveys_services.domain\\Enums\\EnumValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T18:55:52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PromedioEncuestaPorEventoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Handlers\\PromedioEncuestaPorEventoHandler.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.application\\Queries\\Handlers\\PromedioEncuestaPorEventoHandler.cs",
+              "ToolTip": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Handlers\\PromedioEncuestaPorEventoHandler.cs",
+              "RelativeToolTip": "src\\surveys_services.application\\Queries\\Handlers\\PromedioEncuestaPorEventoHandler.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:40:35.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SurveyController.cs",
+              "DocumentMoniker": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.api\\Controllers\\SurveyController.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.api\\Controllers\\SurveyController.cs",
+              "ToolTip": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.api\\Controllers\\SurveyController.cs",
+              "RelativeToolTip": "src\\surveys_services.api\\Controllers\\SurveyController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:30:28.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PromedioQuestionDto.cs",
+              "DocumentMoniker": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\PromedioQuestionDto.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.application\\DTOs\\PromedioQuestionDto.cs",
+              "ToolTip": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\PromedioQuestionDto.cs",
+              "RelativeToolTip": "src\\surveys_services.application\\DTOs\\PromedioQuestionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:16:33.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PromedioEventSurveyDto.cs",
+              "DocumentMoniker": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\PromedioEventSurveyDto.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.application\\DTOs\\PromedioEventSurveyDto.cs",
+              "ToolTip": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\PromedioEventSurveyDto.cs",
+              "RelativeToolTip": "src\\surveys_services.application\\DTOs\\PromedioEventSurveyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:16:09.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HistoialPagoExternalDto.cs",
+              "DocumentMoniker": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\HistoialPagoExternalDto.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.application\\DTOs\\HistoialPagoExternalDto.cs",
+              "ToolTip": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\HistoialPagoExternalDto.cs",
+              "RelativeToolTip": "src\\surveys_services.application\\DTOs\\HistoialPagoExternalDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T01:45:23.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PagosService.cs",
+              "DocumentMoniker": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.infrastructure\\Services\\PagosService.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.infrastructure\\Services\\PagosService.cs",
+              "ToolTip": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.infrastructure\\Services\\PagosService.cs",
+              "RelativeToolTip": "src\\surveys_services.infrastructure\\Services\\PagosService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T01:39:44.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPagosService.cs",
+              "DocumentMoniker": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Interfaces\\IPagosService.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.application\\Interfaces\\IPagosService.cs",
+              "ToolTip": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Interfaces\\IPagosService.cs",
+              "RelativeToolTip": "src\\surveys_services.application\\Interfaces\\IPagosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T01:39:38.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.api\\Program.cs",
+              "ToolTip": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.api\\Program.cs",
+              "RelativeToolTip": "src\\surveys_services.api\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T01:05:39.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventosService.cs",
+              "DocumentMoniker": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.infrastructure\\Services\\EventosService.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.infrastructure\\Services\\EventosService.cs",
+              "ToolTip": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.infrastructure\\Services\\EventosService.cs",
+              "RelativeToolTip": "src\\surveys_services.infrastructure\\Services\\EventosService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T23:03:13.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetPendingSurveysByUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Handlers\\GetPendingSurveysByUserHandler.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.application\\Queries\\Handlers\\GetPendingSurveysByUserHandler.cs",
+              "ToolTip": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Handlers\\GetPendingSurveysByUserHandler.cs",
+              "RelativeToolTip": "src\\surveys_services.application\\Queries\\Handlers\\GetPendingSurveysByUserHandler.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAUwFkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T23:02:48.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SurveyResultByEventDto.cs",
+              "DocumentMoniker": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\SurveyResultByEventDto.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.application\\DTOs\\SurveyResultByEventDto.cs",
+              "ToolTip": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\SurveyResultByEventDto.cs",
+              "RelativeToolTip": "src\\surveys_services.application\\DTOs\\SurveyResultByEventDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T22:17:22.004Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

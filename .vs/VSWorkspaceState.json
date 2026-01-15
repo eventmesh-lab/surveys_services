@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\surveys_services.application",
+    "\\src\\surveys_services.application\\Queries",
+    "\\src\\surveys_services.application\\Queries\\Handlers",
+    "\\src\\surveys_services.application\\Queries\\Queries",
+    "\\src\\surveys_services.domain",
+    "\\src\\surveys_services.domain\\Constants",
+    "\\src\\surveys_services.domain\\Enums"
+  ],
+  "SelectedNode": "\\src\\surveys_services.application\\Queries\\Handlers\\GetPendingSurveysByUserHandler.cs",
+  "PreviewInSolutionExplorer": false
+}

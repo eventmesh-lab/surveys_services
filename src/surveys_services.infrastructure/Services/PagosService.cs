@@ -20,7 +20,7 @@ namespace surveys_services.infrastructure.Services
             _httpClient = httpClient ?? throw new ArgumentNullException(nameof(httpClient));
         }
 
-        public async Task<List<Guid>> ObtenerEventosPagadosPorUsuarioAsync(Guid correo, CancellationToken cancellationToken)
+        public async Task<List<Guid>> ObtenerEventosPagadosPorUsuarioAsync(string correo, CancellationToken cancellationToken)
         {
             try
             {

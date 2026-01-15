@@ -10,11 +10,11 @@ namespace surveys_services.application.Queries.Queries
 {
     public class GetPendingSurveysByUserQuery : IRequest<List<PendingSurveyDto>>
     {
-        public Guid UserId { get; set; }
+        public string Email { get; set; }
 
-        public GetPendingSurveysByUserQuery(Guid userId)
+        public GetPendingSurveysByUserQuery(string email)
         {
-            UserId = userId;
+            Email = email;
         }
     }
 }

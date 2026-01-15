@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace surveys_services.application.Interfaces
 {
-    public interface IPagosService
+    public interface IUserService
     {
-        Task<List<Guid>> ObtenerEventosPagadosPorUsuarioAsync(string correo, CancellationToken cancellationToken);
+        Task<Guid> ObtenerUsuarioPorEmailAsync(string correo);
     }
 }

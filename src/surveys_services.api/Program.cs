@@ -46,6 +46,7 @@ builder.Services.AddScoped<IQuestionRepository, QuestionRepositoryPostgres>();
 builder.Services.AddScoped<ISurveysRepository, SurveysRepositoryPostgres>();
 builder.Services.AddScoped<IEventosService, EventosService>(); 
 builder.Services.AddScoped<IPagosService, PagosService>();
+builder.Services.AddScoped<IUserService, UserService>();
 
 // Add services to the container.
 

@@ -10,11 +10,11 @@ namespace surveys_services.application.Queries.Queries
 {
     public class GetCompletedSurveysByUserQuery : IRequest<List<CompletedSurveyDto>>
     {
-        public Guid UserId { get; set; }
+        public string Email { get; set; }
 
-        public GetCompletedSurveysByUserQuery(Guid userId)
+        public GetCompletedSurveysByUserQuery(string email)
         {
-            UserId = userId;
+            Email = email;
         }
     }
 }

@@ -54,14 +54,14 @@ namespace surveys_services.infrastructure.Services
                  var dto = JsonSerializer.Deserialize<EventoDto>(contenido, new JsonSerializerOptions
                  {
                      PropertyNameCaseInsensitive = true
-                 });
+                 });*/
 
-                 if (dto == null)
-                 {
-                     return null;
-                 }*/
+                 
                 var dto = _eventosMock.FirstOrDefault(e => e.Id == eventoId);
-
+                if (dto == null)
+                {
+                    return null;
+                }
                 var evento = new Evento(
                     dto.Id,
                     dto.Nombre,

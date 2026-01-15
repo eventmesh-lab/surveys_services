@@ -55,7 +55,7 @@ namespace surveys_services.application.Queries.Handlers
                 if (answers != null && answers.Any())
                 {
                     totalRespuestas = answers.Count;
-
+                    Console.WriteLine("Promedio");
                     promedio = answers.Average(a => (int)a.Valor);
                 }
 
