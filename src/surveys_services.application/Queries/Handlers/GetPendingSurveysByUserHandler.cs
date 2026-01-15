@@ -50,16 +50,18 @@ namespace surveys_services.application.Queries.Handlers
             {
                 try
                 {
+                    Console.WriteLine("hola");
                     if (eventoId == Guid.Empty) continue;
 
                     var estadoEvento = await _eventosService.ObtenerEstadoEventoAsync(eventoId, cancellationToken);
-
+                    Console.WriteLine("hola");
                     if (estadoEvento == null)
                     {
                         continue;
                     }
-
-                    if (string.Equals(estadoEvento.Estado, "Finalizado", StringComparison.OrdinalIgnoreCase))
+                    Console.WriteLine($"hola{eventoId}");
+                    Console.WriteLine($"{estadoEvento.Estado}");
+                    if (string.Equals(estadoEvento.Estado, "Publicado", StringComparison.OrdinalIgnoreCase))
                     {
                         var survey = await _surveysRepository.ObtenerEncuestaPorEventoAsync(eventoId, cancellationToken);
 
