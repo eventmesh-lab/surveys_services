@@ -1,0 +1,33 @@
+version: '3.8'
+services:
+  db:
+    image: postgres:15-alpine
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: surveys-service
+    volumes:
+      - surveys_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL","pg_isready -U postgres -d surveys-service"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+
+  surveys:
+    build:
+      context: .
+      args:
+        APP_PORT: 7186
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ConnectionStrings__ConnectionPostgre: "Host=db;Port=5432;Database=surveys-service;Username=postgres;Password=postgres"
+    ports:
+      - "7186:7186"
+    depends_on:
+      db:
+        condition: service_healthy
+    restart: on-failure
+
+volumes:
+  surveys_pgdata:
