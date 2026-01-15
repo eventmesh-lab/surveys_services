@@ -10,6 +10,6 @@
     "\\src\\surveys_services.domain\\Constants",
     "\\src\\surveys_services.domain\\Enums"
   ],
-  "SelectedNode": "\\src\\surveys_services.application\\Queries\\Handlers\\GetPendingSurveysByUserHandler.cs",
+  "SelectedNode": "\\surveys_services.sln",
   "PreviewInSolutionExplorer": false
 }

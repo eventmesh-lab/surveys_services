@@ -41,23 +41,23 @@ namespace surveys_services.infrastructure.Services
         {
             try
             {
-                /* var response = await _httpClient.GetAsync($"http://localhost:5002/api/Eventos/{eventoId}");
+                 var response = await _httpClient.GetAsync($"http://localhost:5000/api/Eventos/{eventoId}");
 
                  if (!response.IsSuccessStatusCode)
                  {
                      return null;
                  }
-
+                 Console.WriteLine("Hola");
                  var contenido = await response.Content.ReadAsStringAsync();
                  Console.WriteLine(contenido);
 
                  var dto = JsonSerializer.Deserialize<EventoDto>(contenido, new JsonSerializerOptions
                  {
                      PropertyNameCaseInsensitive = true
-                 });*/
+                 });
 
                  
-                var dto = _eventosMock.FirstOrDefault(e => e.Id == eventoId);
+               // var dto = _eventosMock.FirstOrDefault(e => e.Id == eventoId);
                 if (dto == null)
                 {
                     return null;
@@ -67,7 +67,7 @@ namespace surveys_services.infrastructure.Services
                     dto.Nombre,
                     dto.Estado
                 );
-
+                Console.WriteLine($"Hola{dto.Estado}");
                 return evento;
             }
             catch (Exception)
