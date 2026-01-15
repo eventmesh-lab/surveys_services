@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 namespace surveys_services.api.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("api/surveys")]
     public class SurveysController : ControllerBase
     {
         private readonly IMediator _mediator;
@@ -21,15 +21,15 @@ namespace surveys_services.api.Controllers
             _mediator = mediator ?? throw new ArgumentNullException(nameof(mediator));
         }
 
-        [HttpGet("pendientes/{userId}")]
-        public async Task<ActionResult<List<PendingSurveyDto>>> GetPendingSurveys(Guid userId)
+        [HttpGet("pendientes/{email}")]
+        public async Task<ActionResult<List<PendingSurveyDto>>> GetPendingSurveys(string email)
         {
-            if (userId == Guid.Empty)
+            if (string.IsNullOrEmpty(email))
             {
-                return BadRequest("El ID del usuario no es válido.");
+                return BadRequest("El email del usuario no es válido.");
             }
 
-            var query = new GetPendingSurveysByUserQuery(userId);
+            var query = new GetPendingSurveysByUserQuery(email);
 
             var result = await _mediator.Send(query);
 
@@ -63,10 +63,10 @@ namespace surveys_services.api.Controllers
             }
         }
 
-        [HttpGet("respuestasEventoUsuario/{eventId}/{userId}")]
-        public async Task<ActionResult<SurveyResultByEventDto>> GetSurveyByEventAndUser(Guid eventId, Guid userId)
+        [HttpGet("respuestasEventoUsuario/{eventId}/{email}")]
+        public async Task<ActionResult<SurveyResultByEventDto>> GetSurveyByEventAndUser(Guid eventId,string email)
         {
-            var query = new GetUserSurveyAnswersByEventQuery(userId, eventId);
+            var query = new GetUserSurveyAnswersByEventQuery(email, eventId);
             var result = await _mediator.Send(query);
 
             if (result == null)
@@ -111,10 +111,10 @@ namespace surveys_services.api.Controllers
             return Ok(result);
         }
 
-        [HttpGet("respondidas/{userId}")]
-        public async Task<ActionResult<List<CompletedSurveyDto>>> GetCompletedSurveys(Guid userId)
+        [HttpGet("respondidas/{email}")]
+        public async Task<ActionResult<List<CompletedSurveyDto>>> GetCompletedSurveys(string email)
         {
-            var query = new GetCompletedSurveysByUserQuery(userId);
+            var query = new GetCompletedSurveysByUserQuery(email);
             var result = await _mediator.Send(query);
 
             return Ok(result);
