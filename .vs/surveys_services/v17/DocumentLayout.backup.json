@@ -1,61 +1,213 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\",
+  "WorkspaceRootPath": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C01A3029-D8E3-662D-242E-7D266CD71232}|src\\surveys_services.infrastructure\\surveys_services.infrastructure.csproj|c:\\users\\crismary gonzalez\\documents\\github\\surveys_services\\src\\surveys_services.infrastructure\\services\\eventosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C01A3029-D8E3-662D-242E-7D266CD71232}|src\\surveys_services.infrastructure\\surveys_services.infrastructure.csproj|solutionrelative:src\\surveys_services.infrastructure\\services\\eventosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93BE3687-AE93-484C-A56B-C44464D4C06E}|tests\\surveys_services.infrastructure.Tests\\surveys_services.infrastructure.Tests.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\tests\\surveys_services.infrastructure.tests\\services\\userservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BE3687-AE93-484C-A56B-C44464D4C06E}|tests\\surveys_services.infrastructure.Tests\\surveys_services.infrastructure.Tests.csproj|solutionrelative:tests\\surveys_services.infrastructure.tests\\services\\userservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C01A3029-D8E3-662D-242E-7D266CD71232}|src\\surveys_services.infrastructure\\surveys_services.infrastructure.csproj|c:\\users\\crismary gonzalez\\documents\\github\\surveys_services\\src\\surveys_services.infrastructure\\services\\pagosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C01A3029-D8E3-662D-242E-7D266CD71232}|src\\surveys_services.infrastructure\\surveys_services.infrastructure.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.infrastructure\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01A3029-D8E3-662D-242E-7D266CD71232}|src\\surveys_services.infrastructure\\surveys_services.infrastructure.csproj|solutionrelative:src\\surveys_services.infrastructure\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE3687-AE93-484C-A56B-C44464D4C06E}|tests\\surveys_services.infrastructure.Tests\\surveys_services.infrastructure.Tests.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\tests\\surveys_services.infrastructure.tests\\services\\pagosservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BE3687-AE93-484C-A56B-C44464D4C06E}|tests\\surveys_services.infrastructure.Tests\\surveys_services.infrastructure.Tests.csproj|solutionrelative:tests\\surveys_services.infrastructure.tests\\services\\pagosservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01A3029-D8E3-662D-242E-7D266CD71232}|src\\surveys_services.infrastructure\\surveys_services.infrastructure.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.infrastructure\\services\\pagosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C01A3029-D8E3-662D-242E-7D266CD71232}|src\\surveys_services.infrastructure\\surveys_services.infrastructure.csproj|solutionrelative:src\\surveys_services.infrastructure\\services\\pagosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|c:\\users\\crismary gonzalez\\documents\\github\\surveys_services\\src\\surveys_services.application\\queries\\handlers\\getpendingsurveysbyuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|solutionrelative:src\\surveys_services.application\\queries\\handlers\\getpendingsurveysbyuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93BE3687-AE93-484C-A56B-C44464D4C06E}|tests\\surveys_services.infrastructure.Tests\\surveys_services.infrastructure.Tests.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\tests\\surveys_services.infrastructure.tests\\services\\eventosservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BE3687-AE93-484C-A56B-C44464D4C06E}|tests\\surveys_services.infrastructure.Tests\\surveys_services.infrastructure.Tests.csproj|solutionrelative:tests\\surveys_services.infrastructure.tests\\services\\eventosservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|c:\\users\\crismary gonzalez\\documents\\github\\surveys_services\\src\\surveys_services.application\\dtos\\histoialpagoexternaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|solutionrelative:src\\surveys_services.application\\dtos\\histoialpagoexternaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C01A3029-D8E3-662D-242E-7D266CD71232}|src\\surveys_services.infrastructure\\surveys_services.infrastructure.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.infrastructure\\services\\eventosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01A3029-D8E3-662D-242E-7D266CD71232}|src\\surveys_services.infrastructure\\surveys_services.infrastructure.csproj|solutionrelative:src\\surveys_services.infrastructure\\services\\eventosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|c:\\users\\crismary gonzalez\\documents\\github\\surveys_services\\src\\surveys_services.application\\queries\\queries\\getpendingsurveysbyuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{93BE3687-AE93-484C-A56B-C44464D4C06E}|tests\\surveys_services.infrastructure.Tests\\surveys_services.infrastructure.Tests.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\tests\\surveys_services.infrastructure.tests\\persistance\\repositories\\surveysrepositorypostgrestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BE3687-AE93-484C-A56B-C44464D4C06E}|tests\\surveys_services.infrastructure.Tests\\surveys_services.infrastructure.Tests.csproj|solutionrelative:tests\\surveys_services.infrastructure.tests\\persistance\\repositories\\surveysrepositorypostgrestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01A3029-D8E3-662D-242E-7D266CD71232}|src\\surveys_services.infrastructure\\surveys_services.infrastructure.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.infrastructure\\persistence\\repositories\\surveysrepositorypostgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01A3029-D8E3-662D-242E-7D266CD71232}|src\\surveys_services.infrastructure\\surveys_services.infrastructure.csproj|solutionrelative:src\\surveys_services.infrastructure\\persistence\\repositories\\surveysrepositorypostgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE3687-AE93-484C-A56B-C44464D4C06E}|tests\\surveys_services.infrastructure.Tests\\surveys_services.infrastructure.Tests.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\tests\\surveys_services.infrastructure.tests\\persistance\\repositories\\questionrepositorypostgrestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BE3687-AE93-484C-A56B-C44464D4C06E}|tests\\surveys_services.infrastructure.Tests\\surveys_services.infrastructure.Tests.csproj|solutionrelative:tests\\surveys_services.infrastructure.tests\\persistance\\repositories\\questionrepositorypostgrestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01A3029-D8E3-662D-242E-7D266CD71232}|src\\surveys_services.infrastructure\\surveys_services.infrastructure.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.infrastructure\\persistence\\repositories\\questionrepositorypostgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01A3029-D8E3-662D-242E-7D266CD71232}|src\\surveys_services.infrastructure\\surveys_services.infrastructure.csproj|solutionrelative:src\\surveys_services.infrastructure\\persistence\\repositories\\questionrepositorypostgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01A3029-D8E3-662D-242E-7D266CD71232}|src\\surveys_services.infrastructure\\surveys_services.infrastructure.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.infrastructure\\persistence\\models\\questionpostgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01A3029-D8E3-662D-242E-7D266CD71232}|src\\surveys_services.infrastructure\\surveys_services.infrastructure.csproj|solutionrelative:src\\surveys_services.infrastructure\\persistence\\models\\questionpostgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE3687-AE93-484C-A56B-C44464D4C06E}|tests\\surveys_services.infrastructure.Tests\\surveys_services.infrastructure.Tests.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\tests\\surveys_services.infrastructure.tests\\persistance\\repositories\\answerrepositorypostgrestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BE3687-AE93-484C-A56B-C44464D4C06E}|tests\\surveys_services.infrastructure.Tests\\surveys_services.infrastructure.Tests.csproj|solutionrelative:tests\\surveys_services.infrastructure.tests\\persistance\\repositories\\answerrepositorypostgrestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01A3029-D8E3-662D-242E-7D266CD71232}|src\\surveys_services.infrastructure\\surveys_services.infrastructure.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.infrastructure\\persistence\\repositories\\answerrepositorypostgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01A3029-D8E3-662D-242E-7D266CD71232}|src\\surveys_services.infrastructure\\surveys_services.infrastructure.csproj|solutionrelative:src\\surveys_services.infrastructure\\persistence\\repositories\\answerrepositorypostgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B059F2A-1830-40F5-A25A-2C5CC5E1B42E}|tests\\surveys_services.application.Tests\\surveys_services.application.Tests.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\tests\\surveys_services.application.tests\\queries\\queries\\promedioencuestaporeventoquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B059F2A-1830-40F5-A25A-2C5CC5E1B42E}|tests\\surveys_services.application.Tests\\surveys_services.application.Tests.csproj|solutionrelative:tests\\surveys_services.application.tests\\queries\\queries\\promedioencuestaporeventoquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.application\\queries\\queries\\promedioencuestaporeventoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|solutionrelative:src\\surveys_services.application\\queries\\queries\\promedioencuestaporeventoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B059F2A-1830-40F5-A25A-2C5CC5E1B42E}|tests\\surveys_services.application.Tests\\surveys_services.application.Tests.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\tests\\surveys_services.application.tests\\queries\\queries\\getusersurveyanswersbyeventquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B059F2A-1830-40F5-A25A-2C5CC5E1B42E}|tests\\surveys_services.application.Tests\\surveys_services.application.Tests.csproj|solutionrelative:tests\\surveys_services.application.tests\\queries\\queries\\getusersurveyanswersbyeventquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.application\\queries\\queries\\getusersurveyanswersbyeventquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|solutionrelative:src\\surveys_services.application\\queries\\queries\\getusersurveyanswersbyeventquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B059F2A-1830-40F5-A25A-2C5CC5E1B42E}|tests\\surveys_services.application.Tests\\surveys_services.application.Tests.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\tests\\surveys_services.application.tests\\queries\\queries\\getpendingsurveysbyuserquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B059F2A-1830-40F5-A25A-2C5CC5E1B42E}|tests\\surveys_services.application.Tests\\surveys_services.application.Tests.csproj|solutionrelative:tests\\surveys_services.application.tests\\queries\\queries\\getpendingsurveysbyuserquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B059F2A-1830-40F5-A25A-2C5CC5E1B42E}|tests\\surveys_services.application.Tests\\surveys_services.application.Tests.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\tests\\surveys_services.application.tests\\queries\\queries\\getcompletedsurveysbyuserquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B059F2A-1830-40F5-A25A-2C5CC5E1B42E}|tests\\surveys_services.application.Tests\\surveys_services.application.Tests.csproj|solutionrelative:tests\\surveys_services.application.tests\\queries\\queries\\getcompletedsurveysbyuserquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B059F2A-1830-40F5-A25A-2C5CC5E1B42E}|tests\\surveys_services.application.Tests\\surveys_services.application.Tests.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\tests\\surveys_services.application.tests\\queries\\queries\\getdetailsurveyandquestionquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B059F2A-1830-40F5-A25A-2C5CC5E1B42E}|tests\\surveys_services.application.Tests\\surveys_services.application.Tests.csproj|solutionrelative:tests\\surveys_services.application.tests\\queries\\queries\\getdetailsurveyandquestionquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.application\\queries\\queries\\getpendingsurveysbyuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|solutionrelative:src\\surveys_services.application\\queries\\queries\\getpendingsurveysbyuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|c:\\users\\crismary gonzalez\\documents\\github\\surveys_services\\src\\surveys_services.application\\queries\\handlers\\promedioencuestaporeventohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.application\\queries\\queries\\getdetailsurveyandquestionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|solutionrelative:src\\surveys_services.application\\queries\\queries\\getdetailsurveyandquestionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.application\\queries\\queries\\getcompletedsurveysbyuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|solutionrelative:src\\surveys_services.application\\queries\\queries\\getcompletedsurveysbyuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B059F2A-1830-40F5-A25A-2C5CC5E1B42E}|tests\\surveys_services.application.Tests\\surveys_services.application.Tests.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\tests\\surveys_services.application.tests\\queries\\handler\\promedioencuestaporeventohandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B059F2A-1830-40F5-A25A-2C5CC5E1B42E}|tests\\surveys_services.application.Tests\\surveys_services.application.Tests.csproj|solutionrelative:tests\\surveys_services.application.tests\\queries\\handler\\promedioencuestaporeventohandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B059F2A-1830-40F5-A25A-2C5CC5E1B42E}|tests\\surveys_services.application.Tests\\surveys_services.application.Tests.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\tests\\surveys_services.application.tests\\queries\\handler\\getdetailsurveyandquestionhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B059F2A-1830-40F5-A25A-2C5CC5E1B42E}|tests\\surveys_services.application.Tests\\surveys_services.application.Tests.csproj|solutionrelative:tests\\surveys_services.application.tests\\queries\\handler\\getdetailsurveyandquestionhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA4661-D326-471F-A33C-0E93558D528E}|src\\surveys_services.domain\\surveys_services.domain.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.domain\\entities\\survey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDA4661-D326-471F-A33C-0E93558D528E}|src\\surveys_services.domain\\surveys_services.domain.csproj|solutionrelative:src\\surveys_services.domain\\entities\\survey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.application\\queries\\handlers\\promedioencuestaporeventohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|solutionrelative:src\\surveys_services.application\\queries\\handlers\\promedioencuestaporeventohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DDA4661-D326-471F-A33C-0E93558D528E}|src\\surveys_services.domain\\surveys_services.domain.csproj|c:\\users\\crismary gonzalez\\documents\\github\\surveys_services\\src\\surveys_services.domain\\constants\\surveyconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DDA4661-D326-471F-A33C-0E93558D528E}|src\\surveys_services.domain\\surveys_services.domain.csproj|solutionrelative:src\\surveys_services.domain\\constants\\surveyconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B059F2A-1830-40F5-A25A-2C5CC5E1B42E}|tests\\surveys_services.application.Tests\\surveys_services.application.Tests.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\tests\\surveys_services.application.tests\\queries\\handler\\getusersurveyanswersbyeventhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B059F2A-1830-40F5-A25A-2C5CC5E1B42E}|tests\\surveys_services.application.Tests\\surveys_services.application.Tests.csproj|solutionrelative:tests\\surveys_services.application.tests\\queries\\handler\\getusersurveyanswersbyeventhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DDA4661-D326-471F-A33C-0E93558D528E}|src\\surveys_services.domain\\surveys_services.domain.csproj|c:\\users\\crismary gonzalez\\documents\\github\\surveys_services\\src\\surveys_services.domain\\enums\\enumvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DDA4661-D326-471F-A33C-0E93558D528E}|src\\surveys_services.domain\\surveys_services.domain.csproj|solutionrelative:src\\surveys_services.domain\\enums\\enumvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.application\\queries\\handlers\\getusersurveyanswersbyeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|solutionrelative:src\\surveys_services.application\\queries\\handlers\\getusersurveyanswersbyeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{877C3C53-BC4E-7F76-527D-A491AF100F4D}|src\\surveys_services.api\\surveys_services.api.csproj|c:\\users\\crismary gonzalez\\documents\\github\\surveys_services\\src\\surveys_services.api\\controllers\\surveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1B059F2A-1830-40F5-A25A-2C5CC5E1B42E}|tests\\surveys_services.application.Tests\\surveys_services.application.Tests.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\tests\\surveys_services.application.tests\\queries\\handler\\getpendingsurveysbyuserhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B059F2A-1830-40F5-A25A-2C5CC5E1B42E}|tests\\surveys_services.application.Tests\\surveys_services.application.Tests.csproj|solutionrelative:tests\\surveys_services.application.tests\\queries\\handler\\getpendingsurveysbyuserhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA4661-D326-471F-A33C-0E93558D528E}|src\\surveys_services.domain\\surveys_services.domain.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.domain\\entities\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDA4661-D326-471F-A33C-0E93558D528E}|src\\surveys_services.domain\\surveys_services.domain.csproj|solutionrelative:src\\surveys_services.domain\\entities\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.application\\queries\\handlers\\getpendingsurveysbyuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|solutionrelative:src\\surveys_services.application\\queries\\handlers\\getpendingsurveysbyuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA4661-D326-471F-A33C-0E93558D528E}|src\\surveys_services.domain\\surveys_services.domain.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.domain\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDA4661-D326-471F-A33C-0E93558D528E}|src\\surveys_services.domain\\surveys_services.domain.csproj|solutionrelative:src\\surveys_services.domain\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.application\\queries\\handlers\\getdetailsurveyandquestionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|solutionrelative:src\\surveys_services.application\\queries\\handlers\\getdetailsurveyandquestionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B059F2A-1830-40F5-A25A-2C5CC5E1B42E}|tests\\surveys_services.application.Tests\\surveys_services.application.Tests.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\tests\\surveys_services.application.tests\\queries\\handler\\getcompletedsurveysbyuserhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B059F2A-1830-40F5-A25A-2C5CC5E1B42E}|tests\\surveys_services.application.Tests\\surveys_services.application.Tests.csproj|solutionrelative:tests\\surveys_services.application.tests\\queries\\handler\\getcompletedsurveysbyuserhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.application\\queries\\handlers\\getcompletedsurveysbyuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|solutionrelative:src\\surveys_services.application\\queries\\handlers\\getcompletedsurveysbyuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B059F2A-1830-40F5-A25A-2C5CC5E1B42E}|tests\\surveys_services.application.Tests\\surveys_services.application.Tests.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\tests\\surveys_services.application.tests\\commands\\handler\\registeranswerhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B059F2A-1830-40F5-A25A-2C5CC5E1B42E}|tests\\surveys_services.application.Tests\\surveys_services.application.Tests.csproj|solutionrelative:tests\\surveys_services.application.tests\\commands\\handler\\registeranswerhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B059F2A-1830-40F5-A25A-2C5CC5E1B42E}|tests\\surveys_services.application.Tests\\surveys_services.application.Tests.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\tests\\surveys_services.application.tests\\commands\\command\\registeranswercommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B059F2A-1830-40F5-A25A-2C5CC5E1B42E}|tests\\surveys_services.application.Tests\\surveys_services.application.Tests.csproj|solutionrelative:tests\\surveys_services.application.tests\\commands\\command\\registeranswercommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.application\\commands\\handlers\\registeranswerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|solutionrelative:src\\surveys_services.application\\commands\\handlers\\registeranswerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.application\\commands\\commands\\registeranswercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|solutionrelative:src\\surveys_services.application\\commands\\commands\\registeranswercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEC87E6-B630-4B8F-A4EF-717E6D5CCD9F}|tests\\surveys_service.api.Tests\\surveys_service.api.Tests.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\tests\\surveys_service.api.tests\\controllers\\surveyscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAEC87E6-B630-4B8F-A4EF-717E6D5CCD9F}|tests\\surveys_service.api.Tests\\surveys_service.api.Tests.csproj|solutionrelative:tests\\surveys_service.api.tests\\controllers\\surveyscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.application\\dtos\\surveyandquestiondtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|solutionrelative:src\\surveys_services.application\\dtos\\surveyandquestiondtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.application\\dtos\\registeranswerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|solutionrelative:src\\surveys_services.application\\dtos\\registeranswerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877C3C53-BC4E-7F76-527D-A491AF100F4D}|src\\surveys_services.api\\surveys_services.api.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.api\\controllers\\surveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{877C3C53-BC4E-7F76-527D-A491AF100F4D}|src\\surveys_services.api\\surveys_services.api.csproj|solutionrelative:src\\surveys_services.api\\controllers\\surveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|c:\\users\\crismary gonzalez\\documents\\github\\surveys_services\\src\\surveys_services.application\\dtos\\promedioquestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.application\\dtos\\histoialpagoexternaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|solutionrelative:src\\surveys_services.application\\dtos\\histoialpagoexternaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA4661-D326-471F-A33C-0E93558D528E}|src\\surveys_services.domain\\surveys_services.domain.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.domain\\constants\\surveyconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDA4661-D326-471F-A33C-0E93558D528E}|src\\surveys_services.domain\\surveys_services.domain.csproj|solutionrelative:src\\surveys_services.domain\\constants\\surveyconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA4661-D326-471F-A33C-0E93558D528E}|src\\surveys_services.domain\\surveys_services.domain.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.domain\\enums\\enumvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDA4661-D326-471F-A33C-0E93558D528E}|src\\surveys_services.domain\\surveys_services.domain.csproj|solutionrelative:src\\surveys_services.domain\\enums\\enumvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.application\\dtos\\promedioquestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|solutionrelative:src\\surveys_services.application\\dtos\\promedioquestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|c:\\users\\crismary gonzalez\\documents\\github\\surveys_services\\src\\surveys_services.application\\dtos\\promedioeventsurveydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.application\\dtos\\promedioeventsurveydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|solutionrelative:src\\surveys_services.application\\dtos\\promedioeventsurveydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|c:\\users\\crismary gonzalez\\documents\\github\\surveys_services\\src\\surveys_services.application\\interfaces\\ipagosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.application\\interfaces\\ipagosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|solutionrelative:src\\surveys_services.application\\interfaces\\ipagosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{877C3C53-BC4E-7F76-527D-A491AF100F4D}|src\\surveys_services.api\\surveys_services.api.csproj|c:\\users\\crismary gonzalez\\documents\\github\\surveys_services\\src\\surveys_services.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{877C3C53-BC4E-7F76-527D-A491AF100F4D}|src\\surveys_services.api\\surveys_services.api.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{877C3C53-BC4E-7F76-527D-A491AF100F4D}|src\\surveys_services.api\\surveys_services.api.csproj|solutionrelative:src\\surveys_services.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|c:\\users\\crismary gonzalez\\documents\\github\\surveys_services\\src\\surveys_services.application\\dtos\\surveyresultbyeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|c:\\users\\adbla\\documents\\github\\surveys_services\\src\\surveys_services.application\\dtos\\surveyresultbyeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E842F33-987D-40E9-A6F6-B7F197C4A297}|src\\surveys_services.application\\surveys_services.application.csproj|solutionrelative:src\\surveys_services.application\\dtos\\surveyresultbyeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -65,12 +217,12 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "DockedWidth": 299,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Bookmark",
@@ -78,101 +230,647 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.infrastructure.Tests\\Services\\UserServiceTest.cs",
+              "RelativeDocumentMoniker": "tests\\surveys_services.infrastructure.Tests\\Services\\UserServiceTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.infrastructure.Tests\\Services\\UserServiceTest.cs",
+              "RelativeToolTip": "tests\\surveys_services.infrastructure.Tests\\Services\\UserServiceTest.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:16:30.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.infrastructure\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.infrastructure\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.infrastructure\\Services\\UserServices.cs",
+              "RelativeToolTip": "src\\surveys_services.infrastructure\\Services\\UserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:16:09.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PagosServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.infrastructure.Tests\\Services\\PagosServiceTest.cs",
+              "RelativeDocumentMoniker": "tests\\surveys_services.infrastructure.Tests\\Services\\PagosServiceTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.infrastructure.Tests\\Services\\PagosServiceTest.cs",
+              "RelativeToolTip": "tests\\surveys_services.infrastructure.Tests\\Services\\PagosServiceTest.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAUwHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:16:00.556Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "GetPendingSurveysByUserQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Queries\\GetPendingSurveysByUserQuery.cs",
-              "RelativeDocumentMoniker": "src\\surveys_services.application\\Queries\\Queries\\GetPendingSurveysByUserQuery.cs",
-              "ToolTip": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Queries\\GetPendingSurveysByUserQuery.cs",
-              "RelativeToolTip": "src\\surveys_services.application\\Queries\\Queries\\GetPendingSurveysByUserQuery.cs",
+              "Title": "EventosServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.infrastructure.Tests\\Services\\EventosServiceTest.cs",
+              "RelativeDocumentMoniker": "tests\\surveys_services.infrastructure.Tests\\Services\\EventosServiceTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.infrastructure.Tests\\Services\\EventosServiceTest.cs",
+              "RelativeToolTip": "tests\\surveys_services.infrastructure.Tests\\Services\\EventosServiceTest.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAUwGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:15:36.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SurveysRepositoryPostgresTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.infrastructure.Tests\\Persistance\\Repositories\\SurveysRepositoryPostgresTest.cs",
+              "RelativeDocumentMoniker": "tests\\surveys_services.infrastructure.Tests\\Persistance\\Repositories\\SurveysRepositoryPostgresTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.infrastructure.Tests\\Persistance\\Repositories\\SurveysRepositoryPostgresTest.cs",
+              "RelativeToolTip": "tests\\surveys_services.infrastructure.Tests\\Persistance\\Repositories\\SurveysRepositoryPostgresTest.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAewJUAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:10:23.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PagosService.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.infrastructure\\Services\\PagosService.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.infrastructure\\Services\\PagosService.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.infrastructure\\Services\\PagosService.cs",
+              "RelativeToolTip": "src\\surveys_services.infrastructure\\Services\\PagosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T01:39:44.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SurveysRepositoryPostgres.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.infrastructure\\Persistence\\Repositories\\SurveysRepositoryPostgres.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.infrastructure\\Persistence\\Repositories\\SurveysRepositoryPostgres.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.infrastructure\\Persistence\\Repositories\\SurveysRepositoryPostgres.cs",
+              "RelativeToolTip": "src\\surveys_services.infrastructure\\Persistence\\Repositories\\SurveysRepositoryPostgres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:09:28.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventosService.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.infrastructure\\Services\\EventosService.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.infrastructure\\Services\\EventosService.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.infrastructure\\Services\\EventosService.cs",
+              "RelativeToolTip": "src\\surveys_services.infrastructure\\Services\\EventosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T23:03:13.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuestionRepositoryPostgresTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.infrastructure.Tests\\Persistance\\Repositories\\QuestionRepositoryPostgresTest.cs",
+              "RelativeDocumentMoniker": "tests\\surveys_services.infrastructure.Tests\\Persistance\\Repositories\\QuestionRepositoryPostgresTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.infrastructure.Tests\\Persistance\\Repositories\\QuestionRepositoryPostgresTest.cs",
+              "RelativeToolTip": "tests\\surveys_services.infrastructure.Tests\\Persistance\\Repositories\\QuestionRepositoryPostgresTest.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAywFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:09:14.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuestionRepositoryPostgres.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.infrastructure\\Persistence\\Repositories\\QuestionRepositoryPostgres.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.infrastructure\\Persistence\\Repositories\\QuestionRepositoryPostgres.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.infrastructure\\Persistence\\Repositories\\QuestionRepositoryPostgres.cs",
+              "RelativeToolTip": "src\\surveys_services.infrastructure\\Persistence\\Repositories\\QuestionRepositoryPostgres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:08:32.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuestionPostgres.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.infrastructure\\Persistence\\Models\\QuestionPostgres.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.infrastructure\\Persistence\\Models\\QuestionPostgres.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.infrastructure\\Persistence\\Models\\QuestionPostgres.cs",
+              "RelativeToolTip": "src\\surveys_services.infrastructure\\Persistence\\Models\\QuestionPostgres.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:06:45.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnswerRepositoryPostgresTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.infrastructure.Tests\\Persistance\\Repositories\\AnswerRepositoryPostgresTest.cs",
+              "RelativeDocumentMoniker": "tests\\surveys_services.infrastructure.Tests\\Persistance\\Repositories\\AnswerRepositoryPostgresTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.infrastructure.Tests\\Persistance\\Repositories\\AnswerRepositoryPostgresTest.cs",
+              "RelativeToolTip": "tests\\surveys_services.infrastructure.Tests\\Persistance\\Repositories\\AnswerRepositoryPostgresTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:06:30.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AnswerRepositoryPostgres.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.infrastructure\\Persistence\\Repositories\\AnswerRepositoryPostgres.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.infrastructure\\Persistence\\Repositories\\AnswerRepositoryPostgres.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.infrastructure\\Persistence\\Repositories\\AnswerRepositoryPostgres.cs",
+              "RelativeToolTip": "src\\surveys_services.infrastructure\\Persistence\\Repositories\\AnswerRepositoryPostgres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:04:44.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PromedioEncuestaPorEventoQueryTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.application.Tests\\Queries\\Queries\\PromedioEncuestaPorEventoQueryTest.cs",
+              "RelativeDocumentMoniker": "tests\\surveys_services.application.Tests\\Queries\\Queries\\PromedioEncuestaPorEventoQueryTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.application.Tests\\Queries\\Queries\\PromedioEncuestaPorEventoQueryTest.cs",
+              "RelativeToolTip": "tests\\surveys_services.application.Tests\\Queries\\Queries\\PromedioEncuestaPorEventoQueryTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:02:41.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PromedioEncuestaPorEventoQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Queries\\PromedioEncuestaPorEventoQuery.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.application\\Queries\\Queries\\PromedioEncuestaPorEventoQuery.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Queries\\PromedioEncuestaPorEventoQuery.cs",
+              "RelativeToolTip": "src\\surveys_services.application\\Queries\\Queries\\PromedioEncuestaPorEventoQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:02:23.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetUserSurveyAnswersByEventQueryTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.application.Tests\\Queries\\Queries\\GetUserSurveyAnswersByEventQueryTest.cs",
+              "RelativeDocumentMoniker": "tests\\surveys_services.application.Tests\\Queries\\Queries\\GetUserSurveyAnswersByEventQueryTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.application.Tests\\Queries\\Queries\\GetUserSurveyAnswersByEventQueryTest.cs",
+              "RelativeToolTip": "tests\\surveys_services.application.Tests\\Queries\\Queries\\GetUserSurveyAnswersByEventQueryTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:02:12.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetUserSurveyAnswersByEventQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Queries\\GetUserSurveyAnswersByEventQuery.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.application\\Queries\\Queries\\GetUserSurveyAnswersByEventQuery.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Queries\\GetUserSurveyAnswersByEventQuery.cs",
+              "RelativeToolTip": "src\\surveys_services.application\\Queries\\Queries\\GetUserSurveyAnswersByEventQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:01:55.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetPendingSurveysByUserQueryTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.application.Tests\\Queries\\Queries\\GetPendingSurveysByUserQueryTest.cs",
+              "RelativeDocumentMoniker": "tests\\surveys_services.application.Tests\\Queries\\Queries\\GetPendingSurveysByUserQueryTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.application.Tests\\Queries\\Queries\\GetPendingSurveysByUserQueryTest.cs",
+              "RelativeToolTip": "tests\\surveys_services.application.Tests\\Queries\\Queries\\GetPendingSurveysByUserQueryTest.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:01:14.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetDetailSurveyAndQuestionQueryTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.application.Tests\\Queries\\Queries\\GetDetailSurveyAndQuestionQueryTest.cs",
+              "RelativeDocumentMoniker": "tests\\surveys_services.application.Tests\\Queries\\Queries\\GetDetailSurveyAndQuestionQueryTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.application.Tests\\Queries\\Queries\\GetDetailSurveyAndQuestionQueryTest.cs",
+              "RelativeToolTip": "tests\\surveys_services.application.Tests\\Queries\\Queries\\GetDetailSurveyAndQuestionQueryTest.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:00:48.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetDetailSurveyAndQuestionQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Queries\\GetDetailSurveyAndQuestionQuery.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.application\\Queries\\Queries\\GetDetailSurveyAndQuestionQuery.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Queries\\GetDetailSurveyAndQuestionQuery.cs",
+              "RelativeToolTip": "src\\surveys_services.application\\Queries\\Queries\\GetDetailSurveyAndQuestionQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:00:35.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetCompletedSurveysByUserQueryTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.application.Tests\\Queries\\Queries\\GetCompletedSurveysByUserQueryTest.cs",
+              "RelativeDocumentMoniker": "tests\\surveys_services.application.Tests\\Queries\\Queries\\GetCompletedSurveysByUserQueryTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.application.Tests\\Queries\\Queries\\GetCompletedSurveysByUserQueryTest.cs",
+              "RelativeToolTip": "tests\\surveys_services.application.Tests\\Queries\\Queries\\GetCompletedSurveysByUserQueryTest.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA4wCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:00:27.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetPendingSurveysByUserQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Queries\\GetPendingSurveysByUserQuery.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.application\\Queries\\Queries\\GetPendingSurveysByUserQuery.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Queries\\GetPendingSurveysByUserQuery.cs",
+              "RelativeToolTip": "src\\surveys_services.application\\Queries\\Queries\\GetPendingSurveysByUserQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T22:47:02.504Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SurveyConstants.cs",
-              "DocumentMoniker": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.domain\\Constants\\SurveyConstants.cs",
-              "RelativeDocumentMoniker": "src\\surveys_services.domain\\Constants\\SurveyConstants.cs",
-              "ToolTip": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.domain\\Constants\\SurveyConstants.cs",
-              "RelativeToolTip": "src\\surveys_services.domain\\Constants\\SurveyConstants.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 22,
+              "Title": "GetCompletedSurveysByUserQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Queries\\GetCompletedSurveysByUserQuery.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.application\\Queries\\Queries\\GetCompletedSurveysByUserQuery.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Queries\\GetCompletedSurveysByUserQuery.cs",
+              "RelativeToolTip": "src\\surveys_services.application\\Queries\\Queries\\GetCompletedSurveysByUserQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T18:56:07.008Z"
+              "WhenOpened": "2026-01-16T00:00:12.088Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EnumValue.cs",
-              "DocumentMoniker": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.domain\\Enums\\EnumValue.cs",
-              "RelativeDocumentMoniker": "src\\surveys_services.domain\\Enums\\EnumValue.cs",
-              "ToolTip": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.domain\\Enums\\EnumValue.cs",
-              "RelativeToolTip": "src\\surveys_services.domain\\Enums\\EnumValue.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "PromedioEncuestaPorEventoHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.application.Tests\\Queries\\Handler\\PromedioEncuestaPorEventoHandlerTest.cs",
+              "RelativeDocumentMoniker": "tests\\surveys_services.application.Tests\\Queries\\Handler\\PromedioEncuestaPorEventoHandlerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.application.Tests\\Queries\\Handler\\PromedioEncuestaPorEventoHandlerTest.cs",
+              "RelativeToolTip": "tests\\surveys_services.application.Tests\\Queries\\Handler\\PromedioEncuestaPorEventoHandlerTest.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T18:55:52Z"
+              "WhenOpened": "2026-01-15T23:53:16.904Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 24,
+              "Title": "GetDetailSurveyAndQuestionHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.application.Tests\\Queries\\Handler\\GetDetailSurveyAndQuestionHandlerTest.cs",
+              "RelativeDocumentMoniker": "tests\\surveys_services.application.Tests\\Queries\\Handler\\GetDetailSurveyAndQuestionHandlerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.application.Tests\\Queries\\Handler\\GetDetailSurveyAndQuestionHandlerTest.cs",
+              "RelativeToolTip": "tests\\surveys_services.application.Tests\\Queries\\Handler\\GetDetailSurveyAndQuestionHandlerTest.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T23:44:58.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Survey.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.domain\\Entities\\Survey.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.domain\\Entities\\Survey.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.domain\\Entities\\Survey.cs",
+              "RelativeToolTip": "src\\surveys_services.domain\\Entities\\Survey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T23:53:33.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetUserSurveyAnswersByEventHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.application.Tests\\Queries\\Handler\\GetUserSurveyAnswersByEventHandlerTest.cs",
+              "RelativeDocumentMoniker": "tests\\surveys_services.application.Tests\\Queries\\Handler\\GetUserSurveyAnswersByEventHandlerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.application.Tests\\Queries\\Handler\\GetUserSurveyAnswersByEventHandlerTest.cs",
+              "RelativeToolTip": "tests\\surveys_services.application.Tests\\Queries\\Handler\\GetUserSurveyAnswersByEventHandlerTest.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwDcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T23:52:31.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetUserSurveyAnswersByEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Handlers\\GetUserSurveyAnswersByEventHandler.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.application\\Queries\\Handlers\\GetUserSurveyAnswersByEventHandler.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Handlers\\GetUserSurveyAnswersByEventHandler.cs",
+              "RelativeToolTip": "src\\surveys_services.application\\Queries\\Handlers\\GetUserSurveyAnswersByEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T23:52:09.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetPendingSurveysByUserHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.application.Tests\\Queries\\Handler\\GetPendingSurveysByUserHandlerTest.cs",
+              "RelativeDocumentMoniker": "tests\\surveys_services.application.Tests\\Queries\\Handler\\GetPendingSurveysByUserHandlerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.application.Tests\\Queries\\Handler\\GetPendingSurveysByUserHandlerTest.cs",
+              "RelativeToolTip": "tests\\surveys_services.application.Tests\\Queries\\Handler\\GetPendingSurveysByUserHandlerTest.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAiwIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T23:47:32.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "PromedioEncuestaPorEventoHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Handlers\\PromedioEncuestaPorEventoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Handlers\\PromedioEncuestaPorEventoHandler.cs",
               "RelativeDocumentMoniker": "src\\surveys_services.application\\Queries\\Handlers\\PromedioEncuestaPorEventoHandler.cs",
-              "ToolTip": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Handlers\\PromedioEncuestaPorEventoHandler.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Handlers\\PromedioEncuestaPorEventoHandler.cs",
               "RelativeToolTip": "src\\surveys_services.application\\Queries\\Handlers\\PromedioEncuestaPorEventoHandler.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAwDIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T02:40:35.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SurveyController.cs",
-              "DocumentMoniker": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.api\\Controllers\\SurveyController.cs",
-              "RelativeDocumentMoniker": "src\\surveys_services.api\\Controllers\\SurveyController.cs",
-              "ToolTip": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.api\\Controllers\\SurveyController.cs",
-              "RelativeToolTip": "src\\surveys_services.api\\Controllers\\SurveyController.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 30,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.domain\\Entities\\Evento.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.domain\\Entities\\Evento.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.domain\\Entities\\Evento.cs",
+              "RelativeToolTip": "src\\surveys_services.domain\\Entities\\Evento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T02:30:28.591Z"
+              "WhenOpened": "2026-01-15T23:51:07.2Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 32,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.domain\\Entities\\Question.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.domain\\Entities\\Question.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.domain\\Entities\\Question.cs",
+              "RelativeToolTip": "src\\surveys_services.domain\\Entities\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T23:45:18.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetPendingSurveysByUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Handlers\\GetPendingSurveysByUserHandler.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.application\\Queries\\Handlers\\GetPendingSurveysByUserHandler.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Handlers\\GetPendingSurveysByUserHandler.cs",
+              "RelativeToolTip": "src\\surveys_services.application\\Queries\\Handlers\\GetPendingSurveysByUserHandler.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwFIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T23:02:48.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetDetailSurveyAndQuestionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Handlers\\GetDetailSurveyAndQuestionHandler.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.application\\Queries\\Handlers\\GetDetailSurveyAndQuestionHandler.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Handlers\\GetDetailSurveyAndQuestionHandler.cs",
+              "RelativeToolTip": "src\\surveys_services.application\\Queries\\Handlers\\GetDetailSurveyAndQuestionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T23:44:33.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetCompletedSurveysByUserHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.application.Tests\\Queries\\Handler\\GetCompletedSurveysByUserHandlerTest.cs",
+              "RelativeDocumentMoniker": "tests\\surveys_services.application.Tests\\Queries\\Handler\\GetCompletedSurveysByUserHandlerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.application.Tests\\Queries\\Handler\\GetCompletedSurveysByUserHandlerTest.cs",
+              "RelativeToolTip": "tests\\surveys_services.application.Tests\\Queries\\Handler\\GetCompletedSurveysByUserHandlerTest.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T23:44:23.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetCompletedSurveysByUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Handlers\\GetCompletedSurveysByUserHandler.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.application\\Queries\\Handlers\\GetCompletedSurveysByUserHandler.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Handlers\\GetCompletedSurveysByUserHandler.cs",
+              "RelativeToolTip": "src\\surveys_services.application\\Queries\\Handlers\\GetCompletedSurveysByUserHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T23:44:00.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RegisterAnswerHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.application.Tests\\Commands\\Handler\\RegisterAnswerHandlerTest.cs",
+              "RelativeDocumentMoniker": "tests\\surveys_services.application.Tests\\Commands\\Handler\\RegisterAnswerHandlerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.application.Tests\\Commands\\Handler\\RegisterAnswerHandlerTest.cs",
+              "RelativeToolTip": "tests\\surveys_services.application.Tests\\Commands\\Handler\\RegisterAnswerHandlerTest.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwEQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T23:43:09.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RegisterAnswerHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Commands\\Handlers\\RegisterAnswerHandler.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.application\\Commands\\Handlers\\RegisterAnswerHandler.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Commands\\Handlers\\RegisterAnswerHandler.cs",
+              "RelativeToolTip": "src\\surveys_services.application\\Commands\\Handlers\\RegisterAnswerHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T23:42:36.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RegisterAnswerCommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.application.Tests\\Commands\\Command\\RegisterAnswerCommandTest.cs",
+              "RelativeDocumentMoniker": "tests\\surveys_services.application.Tests\\Commands\\Command\\RegisterAnswerCommandTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_services.application.Tests\\Commands\\Command\\RegisterAnswerCommandTest.cs",
+              "RelativeToolTip": "tests\\surveys_services.application.Tests\\Commands\\Command\\RegisterAnswerCommandTest.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T23:42:23.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RegisterAnswerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Commands\\Commands\\RegisterAnswerCommand.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.application\\Commands\\Commands\\RegisterAnswerCommand.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Commands\\Commands\\RegisterAnswerCommand.cs",
+              "RelativeToolTip": "src\\surveys_services.application\\Commands\\Commands\\RegisterAnswerCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T23:42:02.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SurveysControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_service.api.Tests\\Controllers\\SurveysControllerTest.cs",
+              "RelativeDocumentMoniker": "tests\\surveys_service.api.Tests\\Controllers\\SurveysControllerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\tests\\surveys_service.api.Tests\\Controllers\\SurveysControllerTest.cs",
+              "RelativeToolTip": "tests\\surveys_service.api.Tests\\Controllers\\SurveysControllerTest.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T23:38:21.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SurveyAndQuestionDtoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\SurveyAndQuestionDtoResponse.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.application\\DTOs\\SurveyAndQuestionDtoResponse.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\SurveyAndQuestionDtoResponse.cs",
+              "RelativeToolTip": "src\\surveys_services.application\\DTOs\\SurveyAndQuestionDtoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T23:39:37.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RegisterAnswerDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\RegisterAnswerDto.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.application\\DTOs\\RegisterAnswerDto.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\RegisterAnswerDto.cs",
+              "RelativeToolTip": "src\\surveys_services.application\\DTOs\\RegisterAnswerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T23:39:15.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SurveyConstants.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.domain\\Constants\\SurveyConstants.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.domain\\Constants\\SurveyConstants.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.domain\\Constants\\SurveyConstants.cs",
+              "RelativeToolTip": "src\\surveys_services.domain\\Constants\\SurveyConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T18:56:07.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SurveyController.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.api\\Controllers\\SurveyController.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.api\\Controllers\\SurveyController.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.api\\Controllers\\SurveyController.cs",
+              "RelativeToolTip": "src\\surveys_services.api\\Controllers\\SurveyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:30:28.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "EnumValue.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.domain\\Enums\\EnumValue.cs",
+              "RelativeDocumentMoniker": "src\\surveys_services.domain\\Enums\\EnumValue.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.domain\\Enums\\EnumValue.cs",
+              "RelativeToolTip": "src\\surveys_services.domain\\Enums\\EnumValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T18:55:52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
               "Title": "PromedioQuestionDto.cs",
-              "DocumentMoniker": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\PromedioQuestionDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\PromedioQuestionDto.cs",
               "RelativeDocumentMoniker": "src\\surveys_services.application\\DTOs\\PromedioQuestionDto.cs",
-              "ToolTip": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\PromedioQuestionDto.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\PromedioQuestionDto.cs",
               "RelativeToolTip": "src\\surveys_services.application\\DTOs\\PromedioQuestionDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T02:16:33.945Z"
+              "WhenOpened": "2026-01-15T02:16:33.945Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 48,
               "Title": "PromedioEventSurveyDto.cs",
-              "DocumentMoniker": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\PromedioEventSurveyDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\PromedioEventSurveyDto.cs",
               "RelativeDocumentMoniker": "src\\surveys_services.application\\DTOs\\PromedioEventSurveyDto.cs",
-              "ToolTip": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\PromedioEventSurveyDto.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\PromedioEventSurveyDto.cs",
               "RelativeToolTip": "src\\surveys_services.application\\DTOs\\PromedioEventSurveyDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T02:16:09.759Z"
+              "WhenOpened": "2026-01-15T02:16:09.759Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 44,
               "Title": "HistoialPagoExternalDto.cs",
-              "DocumentMoniker": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\HistoialPagoExternalDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\HistoialPagoExternalDto.cs",
               "RelativeDocumentMoniker": "src\\surveys_services.application\\DTOs\\HistoialPagoExternalDto.cs",
-              "ToolTip": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\HistoialPagoExternalDto.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\HistoialPagoExternalDto.cs",
               "RelativeToolTip": "src\\surveys_services.application\\DTOs\\HistoialPagoExternalDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -181,78 +879,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PagosService.cs",
-              "DocumentMoniker": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.infrastructure\\Services\\PagosService.cs",
-              "RelativeDocumentMoniker": "src\\surveys_services.infrastructure\\Services\\PagosService.cs",
-              "ToolTip": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.infrastructure\\Services\\PagosService.cs",
-              "RelativeToolTip": "src\\surveys_services.infrastructure\\Services\\PagosService.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwCcAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T01:39:44.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 49,
               "Title": "IPagosService.cs",
-              "DocumentMoniker": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Interfaces\\IPagosService.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Interfaces\\IPagosService.cs",
               "RelativeDocumentMoniker": "src\\surveys_services.application\\Interfaces\\IPagosService.cs",
-              "ToolTip": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Interfaces\\IPagosService.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Interfaces\\IPagosService.cs",
               "RelativeToolTip": "src\\surveys_services.application\\Interfaces\\IPagosService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T01:39:38.268Z"
+              "WhenOpened": "2026-01-15T01:39:38.268Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 50,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.api\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.api\\Program.cs",
               "RelativeDocumentMoniker": "src\\surveys_services.api\\Program.cs",
-              "ToolTip": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.api\\Program.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.api\\Program.cs",
               "RelativeToolTip": "src\\surveys_services.api\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T01:05:39.278Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EventosService.cs",
-              "DocumentMoniker": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.infrastructure\\Services\\EventosService.cs",
-              "RelativeDocumentMoniker": "src\\surveys_services.infrastructure\\Services\\EventosService.cs",
-              "ToolTip": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.infrastructure\\Services\\EventosService.cs",
-              "RelativeToolTip": "src\\surveys_services.infrastructure\\Services\\EventosService.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAIwCsAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T23:03:13.002Z",
+              "WhenOpened": "2026-01-15T01:05:39.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetPendingSurveysByUserHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Handlers\\GetPendingSurveysByUserHandler.cs",
-              "RelativeDocumentMoniker": "src\\surveys_services.application\\Queries\\Handlers\\GetPendingSurveysByUserHandler.cs",
-              "ToolTip": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\Queries\\Handlers\\GetPendingSurveysByUserHandler.cs",
-              "RelativeToolTip": "src\\surveys_services.application\\Queries\\Handlers\\GetPendingSurveysByUserHandler.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAUwD0AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T23:02:48.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 51,
               "Title": "SurveyResultByEventDto.cs",
-              "DocumentMoniker": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\SurveyResultByEventDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\SurveyResultByEventDto.cs",
               "RelativeDocumentMoniker": "src\\surveys_services.application\\DTOs\\SurveyResultByEventDto.cs",
-              "ToolTip": "C:\\Users\\Crismary Gonzalez\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\SurveyResultByEventDto.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\surveys_services\\src\\surveys_services.application\\DTOs\\SurveyResultByEventDto.cs",
               "RelativeToolTip": "src\\surveys_services.application\\DTOs\\SurveyResultByEventDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T22:17:22.004Z"
+              "WhenOpened": "2026-01-14T22:17:22.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 114,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{da1e233c-cfa8-5021-b06c-abc3d02f44e8}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 137,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
