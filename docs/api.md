@@ -87,7 +87,7 @@ Registra la respuesta de un usuario a una pregunta específica de una encuesta. 
 ```json
 "b1c2d3e4-f5a6-7890-1234-567890abcdef"
 ```
-*(Retorna el GUID de la respuesta creada)*
+*(Retorna el GUID del registro Answer creado. Este ID puede usarse para auditoría o referencias futuras)*
 
 **Ejemplo de Error (409):**
 ```json
